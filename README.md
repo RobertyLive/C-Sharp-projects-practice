@@ -14,4 +14,4 @@
 Tópicos: Console - Condicionais - Loops - Casting - Médias
 
 1.  Calculadora
-
+2.  Jogar dados
